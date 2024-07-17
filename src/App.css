@@ -1,0 +1,19 @@
+.my-button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 200px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+
+  background-color: darkcyan;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+   
+}
+
+.my-button:hover{
+  background-color: darkslategray;
+}
